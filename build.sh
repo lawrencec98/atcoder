@@ -1,0 +1,1 @@
+g++ -std=c++11 -O2 -Wall $1.cpp -o $1.o
