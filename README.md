@@ -1,1 +1,1 @@
-# atcoder
+# competitive_programming
